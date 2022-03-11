@@ -1,5 +1,5 @@
 
-# MSS Data Analytics Technical Test
+# MSS D&A Technical Test
 
 **Last Updated: 11 March 2022**
 
